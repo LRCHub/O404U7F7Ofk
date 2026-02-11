@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "軌跡",
+  "base_artist": "ラックライフ",
+  "createdAt": "2026-02-11T07:38:36.555018Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "軌跡",
+      "artist": "Roselia",
+      "has_synced": true,
+      "path": "select/01_軌跡_Roselia.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "軌跡",
+      "artist": "Roselia",
+      "has_synced": true,
+      "path": "select/02_軌跡_Roselia.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "軌跡",
+      "artist": "Jay Chou",
+      "has_synced": true,
+      "path": "select/03_軌跡_Jay_Chou.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "軌跡 (Original Karaoke)",
+      "artist": "Jay Chou",
+      "has_synced": true,
+      "path": "select/04_軌跡_(Original_Karaoke)_Jay_Chou.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "彩虹/軌跡",
+      "artist": "Jay Chou",
+      "has_synced": true,
+      "path": "select/05_彩虹_軌跡_Jay_Chou.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "彩虹＋軌跡",
+      "artist": "Jay Chou",
+      "has_synced": true,
+      "path": "select/06_彩虹+軌跡_Jay_Chou.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "軌跡",
+      "artist": "Jay Chou",
+      "has_synced": true,
+      "path": "select/07_軌跡_Jay_Chou.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "軌跡 (Original Karaoke)",
+      "artist": "Jay Chou",
+      "has_synced": true,
+      "path": "select/08_軌跡_(Original_Karaoke)_Jay_Chou.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Contrail~軌跡~",
+      "artist": "川田まみ",
+      "has_synced": true,
+      "path": "select/09_Contrail~軌跡~_川田まみ.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "軌跡",
+      "artist": "ラックライフ",
+      "has_synced": true,
+      "path": "select/10_軌跡_ラックライフ.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "軌跡 - Live",
+      "artist": "Jay Chou",
+      "has_synced": true,
+      "path": "select/11_軌跡_-_Live_Jay_Chou.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "軌跡",
+      "artist": "Jay Chou",
+      "has_synced": true,
+      "path": "select/12_軌跡_Jay_Chou.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "軌跡 - 演唱會版",
+      "artist": "Jay Chou",
+      "has_synced": true,
+      "path": "select/13_軌跡_-_演唱會版_Jay_Chou.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "軌跡 - Original Karaoke",
+      "artist": "Jay Chou",
+      "has_synced": true,
+      "path": "select/14_軌跡_-_Original_Karaoke_Jay_Chou.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "軌跡 - Our Path",
+      "artist": "Roselia",
+      "has_synced": true,
+      "path": "select/15_軌跡_-_Our_Path_Roselia.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "軌跡",
+      "artist": "ラックライフ",
+      "has_synced": false,
+      "path": "select/pl_01_軌跡_ラックライフ.txt"
+    }
+  ]
+}
